@@ -3,9 +3,9 @@ This app is a clone of Twitter as close as possible to the real thing.
 
 [Work Still In Progress]
 # Features Implemented Uptill Now:
-Window Size Sensitive
-SideBar
-Input Bar (Connected with FireBase) -> Emoji and File Support.
+-> Window Size Sensitive
+-> SideBar
+-> Input Bar (Connected with FireBase) -> Emoji and File Support.
 
 Here are some of the pictures of its functionality:
 
